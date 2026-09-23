@@ -28,3 +28,6 @@ venv/
 .env.local
 *.pem
 *.key
+
+# ---- 本地工具工作数据 ----
+.workbuddy/
