@@ -1,0 +1,6 @@
+example_list = [1, 2, 3, 4, 5,6,7,12,543,876,12,3,2,5]
+for i in example_list:
+    print(i)
+    print('inner of for')
+'''可以用 ctrl + [ 来缩进'''
+print('outer of for')
