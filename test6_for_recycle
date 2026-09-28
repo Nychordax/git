@@ -4,3 +4,6 @@ for i in example_list:
     print('inner of for')
 '''可以用 ctrl + [ 来缩进'''
 print('outer of for')
+
+for i in (1,10,2):
+    print(i)
