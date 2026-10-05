@@ -5,6 +5,7 @@ class Calculator:
         self.hight = hight
         self.width = width
         self.weight = weight
+        self.test = 1
     def add(self,x,y):
         print(self,x,y)
         result = x + y
