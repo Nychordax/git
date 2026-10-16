@@ -52,5 +52,3 @@
     def hello(object):
         print("Hello" + object + "!") #字符串的拼接可以用加号
     hello("World")
-
-

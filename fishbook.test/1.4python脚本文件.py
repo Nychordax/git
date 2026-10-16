@@ -15,7 +15,7 @@ class 类名：
         #方法体
     def 方法名2(self,参数1,参数2):#方法2
         #方法体
-下面是一个简单的类的例子：
+'''下面是一个简单的类的例子：'''
 class Man:
     def __init__(self,name):
         self.name = name
